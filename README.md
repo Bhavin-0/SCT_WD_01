@@ -1,61 +1,61 @@
-# Welcome to your Lovable project
+# Project Name
 
-## Project info
+A modern web application built with React, Vite, TypeScript, and Tailwind CSS. It uses `shadcn-ui` for UI components and is structured for easy customization and development.
 
-**URL**: https://lovable.dev/projects/dd1463f3-4450-4594-bb58-4e2a3199a730
+---
 
-## How can I edit this code?
+## 🚀 Getting Started
 
-There are several ways of editing your application.
+You can customize and develop this project in several ways, depending on your preferred workflow.
 
-**Use Lovable**
+### ✅ Option 1: Use Your Local Development Environment
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/dd1463f3-4450-4594-bb58-4e2a3199a730) and start prompting.
+To run the project locally:
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Step 1: Clone the repository using your Git URL.
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server.
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+> Ensure you have Node.js and npm installed. If not, we recommend using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) to manage your Node.js versions.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+### ✏️ Option 2: Edit Directly on GitHub
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Open the desired file in the repository.
+2. Click the pencil icon (🖉) to edit.
+3. Make your changes and commit them directly from the browser.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+### 💻 Option 3: Use GitHub Codespaces
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Go to the main page of your repository.
+2. Click the green **Code** button and select the **Codespaces** tab.
+3. Click **New codespace** to launch an instant development environment.
+4. Edit, commit, and push changes all within your browser.
+
+---
+
+## 🧰 Tech Stack
+
+This project is powered by:
+
+* ⚡ [Vite](https://vitejs.dev/)
+* ⚛️ [React](https://reactjs.org/)
+* 🟨 [TypeScript](https://www.typescriptlang.org/)
+* 🎨 [Tailwind CSS](https://tailwindcss.com/)
+* 🧩 [shadcn/ui](https://ui.shadcn.com/)
+
+---
+
